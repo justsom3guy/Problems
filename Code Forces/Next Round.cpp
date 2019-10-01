@@ -8,7 +8,8 @@ using namespace std;#include<iostream>
 using namespace std;
 int main(){
 
-long long int a,n,m,l,w;
+
+    long long int a,n,m,l,w;
 cin>>m>>n>>a;
 l=m/a;
 w=n/a;
