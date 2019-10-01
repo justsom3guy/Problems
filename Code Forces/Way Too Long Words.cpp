@@ -9,6 +9,7 @@ int main()
     cin >> n;
     while (n--)
     {
+       
         cin >> s;
         if (s.length() > 10)
         {
