@@ -10,7 +10,8 @@ main ()
     {
       for (j = 0; j < 3; j++)
 	    {
-	    cin >> a[i][j];
+	    
+	      cin >> a[i][j];
 	    }
     }
 for (i = 0; i < n; i++)
